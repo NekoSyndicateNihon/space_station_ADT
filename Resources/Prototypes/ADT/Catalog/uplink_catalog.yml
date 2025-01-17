@@ -638,3 +638,15 @@
     Telecrystal: 9
   categories:
   - UplinkWeaponry
+
+
+- type: listing
+  id: UplinkADTGameAntagCard
+  name: uplink-ADTGameAntagCard-name
+  description: ADTGameAntagCard-desc
+  icon: { sprite:ADT/Objects/Specific/Service/Game_Agent_Card.rsi, state: icon}
+  productEntity: ADTGameAntagCard
+  cost:
+    Telecrystal: 5
+  categories:
+  - UplinkPointless
